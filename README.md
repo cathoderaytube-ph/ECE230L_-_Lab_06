@@ -12,8 +12,9 @@ In this lab you've learned the basics of number theory as it relates to addition
 | Question 3 | Your answers to the question | 25% |
 
 ## Name
-> Cherrie Rose Taltala
-> Sophia Dimas
+Cherrie Rose Taltala
+
+Sophia Dimas
 
 ## Summary
 We learned how to implement full adders in our Verilog, the importance of an XOR, and learning how to add two bits together.
